@@ -44,8 +44,8 @@ Here are some of the key API routes available in the project:
 ```bash
 POST /api/register
 {
-  "name": "Tharaniesh P R",
-  "aadhar": "123456789012",
-  "age": 20,
+  "name": "Jawahar Sri",
+  "aadhar": "12345621025",
+  "age": 21,
   "sex": "Male"
 }
